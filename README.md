@@ -1,7 +1,7 @@
-## Anti-Varion
+# Anti-Varion
 für die Google Chrome Erweiterung "Tampermonkey"
 
-# Installation:
+## Installation:
 - Tampermonkey als Erweiterung hinzufügen: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 - Link aufrufen: https://raw.githubusercontent.com/m36/anti-varion/master/AntiVar.user.js
 
