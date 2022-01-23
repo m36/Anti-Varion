@@ -27,6 +27,7 @@
             'UCxm1sQQ53BGzKnhNZ9lZvCA', // Eigenwerbung von Kif
             'UCh9IfI45mmk59eDvSWtuuhQ', // Varion-Kopie
             'UCDyqjn-9rKdcAe0gTMAkqyg', // Noch eine Varion-Kopie
+            'UCrDAt04Uan9eAiu0E9RtT4A', // Varion-Kopie mit Bart
             'UCy0Pr5u-MwGXXzp_GDd4m_g', // weibliche Varion-Kopie
             'UCnBhY8jMEZzSSuFPz6JSAxQ' // Unlustiger Typ mit Behinderung
         ];
