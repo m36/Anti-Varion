@@ -29,6 +29,7 @@
             'UCDyqjn-9rKdcAe0gTMAkqyg', // Noch eine Varion-Kopie
             'UCrDAt04Uan9eAiu0E9RtT4A', // Varion-Kopie mit Bart
             'UCy0Pr5u-MwGXXzp_GDd4m_g', // weibliche Varion-Kopie
+            'UCpGk56cJDZcVqIxZatX7nbQ', // Unlustige Katzencomics aus Japan
             'UCnBhY8jMEZzSSuFPz6JSAxQ' // Unlustiger Typ mit Behinderung
         ];
         $('.ytp-title-channel-logo').each(function () {
