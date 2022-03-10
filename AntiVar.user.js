@@ -34,7 +34,7 @@
             'UCnBhY8jMEZzSSuFPz6JSAxQ' // Unlustiger Typ mit Behinderung
         ];
         $('.ytp-title-channel-logo').each(function () {
-            if ($.inArray($(this).attr('href').replace('https://www.youtube.com/channel/',''), blocklist) >= 0) {
+            if ($.inArray($(this).attr('href').replace('?feature=emb_ch_name_ex','').replace('https://www.youtube.com/channel/',''), blocklist) >= 0) {
                 $('body').html('Blocked by Anti-Varion extension');
             }
         });
