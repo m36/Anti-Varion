@@ -27,6 +27,7 @@
             'UCxm1sQQ53BGzKnhNZ9lZvCA', // Eigenwerbung von Kif
             'UCh9IfI45mmk59eDvSWtuuhQ', // Varion-Kopie
             'UCDyqjn-9rKdcAe0gTMAkqyg', // Noch eine Varion-Kopie
+            'UCMn-zv1SE-2y6vyewscfFqw', // irgendwas ohne Humor
             'UCrDAt04Uan9eAiu0E9RtT4A', // Varion-Kopie mit Bart
             'UCy0Pr5u-MwGXXzp_GDd4m_g', // weibliche Varion-Kopie
             'UCpGk56cJDZcVqIxZatX7nbQ', // Unlustige Katzencomics aus Japan
