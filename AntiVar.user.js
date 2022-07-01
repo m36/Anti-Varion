@@ -32,6 +32,7 @@
             'UCy0Pr5u-MwGXXzp_GDd4m_g', // weibliche Varion-Kopie
             'UCpGk56cJDZcVqIxZatX7nbQ', // Unlustige Katzencomics aus Japan
             'UC_fvAVmQ3aQ4zpuvzGPZP3w', // Humor für Kinder
+			'UC9Kq-yEt1iYsbUzNOoIRK0g', // Varion-Kopie mit aufgeblasenen Augen
             'UCnBhY8jMEZzSSuFPz6JSAxQ' // Unlustiger Typ mit Behinderung
         ];
         $('.ytp-title-channel-logo').each(function () {
