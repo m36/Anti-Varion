@@ -33,7 +33,8 @@
             'UCpGk56cJDZcVqIxZatX7nbQ', // Unlustige Katzencomics aus Japan
             'UC_fvAVmQ3aQ4zpuvzGPZP3w', // Humor für Kinder
 			'UC9Kq-yEt1iYsbUzNOoIRK0g', // Varion-Kopie mit aufgeblasenen Augen
-            'UCnBhY8jMEZzSSuFPz6JSAxQ' // Unlustiger Typ mit Behinderung
+			'FabiRommel' // Just another Varion
+            'UCnBhY8jMEZzSSuFPz6JSAxQ'  // Unlustiger Typ mit Behinderung
         ];
         $('.ytp-title-channel-logo').each(function () {
             if ($.inArray($(this).attr('href').replace('?feature=emb_ch_name_ex','').replace('https://www.youtube.com/channel/',''), blocklist) >= 0) {
