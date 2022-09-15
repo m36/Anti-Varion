@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anti Varion
 // @namespace    http://varion.abschaffen/
-// @version      0.1
+// @version      0.2
 // @description  Less fun is more fun!
 // @author       m3
 // @match        https://www.youtube.com/embed/*
